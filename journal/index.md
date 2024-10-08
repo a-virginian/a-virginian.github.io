@@ -5,4 +5,4 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 # heres my journal entries 
 [my journey learning the terminal](terminal.md)
 
-[my second entry](markdown.md)
+[my second entry](entries/markdown.md)
