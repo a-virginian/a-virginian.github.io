@@ -7,5 +7,5 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 
 [my second entry](entries/markdown.md)
 
-[here is some math](math.md)
+[here is some math](entries/math.md)
 
