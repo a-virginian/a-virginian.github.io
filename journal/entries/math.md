@@ -1,6 +1,7 @@
 recently in math i learned about simplifying radicals and radical operations
 
-first i reviewed the names of the parts of a radical 
+first i reviewed the names of the parts of a radical
+ 
 ![parts of a radical](https://study.com/cimages/multimages/16/radical_image.jpg)
 
 ## simplifying perfect square roots 
