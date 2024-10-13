@@ -9,6 +9,7 @@ first i reviewed the names of the parts of a radical
 lets take the equation 4√50 first you have to find the biggest perfect square that can be multiplied to get to get the radicand in this situation its 50 to do this you can go through the cube roots till you find it 
 
 #### table of perfect cubes 
+
  |square root|perfect square|
  |---------|------------|
  |1        |1           |
