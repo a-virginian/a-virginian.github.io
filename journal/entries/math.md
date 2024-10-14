@@ -8,7 +8,7 @@ First I reviewed the names of the parts of a radical.
 
 ## Simplifying Perfect Square Roots 
 
-Lets take the equation ** $4\sqrt{50}$ **  . First you have to find the largest perfect square that can be multiplied to get the radicand. In this situation, the radicand is 50 so you can go through the cube roots until you find it. 
+Lets take the equation ** $4\sqrt{50}$ **  . First you have to find the largest perfect square that can be multiplied to get the radicand. In this situation, the radicand is 50 so you can go through the cube roots table below until you find it. 
 
 #### Table of Perfect Cubes 
 
