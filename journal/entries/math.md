@@ -28,12 +28,13 @@ In this situation the largest perfect square would be 25. Next you would seperat
 $$20\sqrt{2}$$
 
 ## Perfect Cubes and Other Radicals 
-i
-Simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by a number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive. If there are variables you can divde the variable by the index.
+
+Simplifying other racidals is just like simplifying sqaure roots. First you divide the radicand by a number to the power of the index. for example, if we have a cube root you use cubes. Also if the index is a odd number the root can be a negative number if its even it cant be negative. If there are variables you can divde the variable by the index.
 
 # Multiplying, Adding and Subtracting 
 
-to multiply add or subtract radicals the radicands must be the same if they are diffrent you could try to simplifying them to try to make them the radicands the same.
+To multiply add or subtract radicals, the radicands must be the same. If they are diffrent, you could try to simplifying them to try and make the radicands the same.
+
 # Dividing 
 
 first check if the index is the same if so start simplifying the coefficent then the radicands after that you need to multiply both sides of the multiplication by the bottom radicand then lastly you simplifying.
