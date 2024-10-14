@@ -1,16 +1,16 @@
-recently in math i learned about simplifying radicals and radical operations
+Recently in math I learned about simplifying radicals and radical operations.
 
-first i reviewed the names of the parts of a radical
+First I reviewed the names of the parts of a radical.
  
 ![parts of a radical](https://study.com/cimages/multimages/16/radical_image.jpg)
 
-# simplifying radicals 
+# Simplifying Radicals 
 
-## simplifying perfect square roots 
+## Simplifying Perfect Square Roots 
 
-lets take the equation 4√50 first you have to find the biggest perfect square that can be multiplied to get to get the radicand in this situation its 50 to do this you can go through the cube roots till you find it 
+Lets take the equation 4√50. First you have to find the biggest perfect square that can be multiplied to get to get the radicand in this situation its 50 to do this you can go through the cube roots till you find it. 
 
-#### table of perfect cubes 
+#### Table of Perfect Cubes 
 
  |square root|perfect square|
  |---------|------------|
@@ -23,15 +23,15 @@ lets take the equation 4√50 first you have to find the biggest perfect square 
  |7        |49          |
  |8        |64          |
 
-in this situation the biggest perfect square would be 25. next you would seperate the radical into 2 the equation would now look like this 4√25√2 next simplify the the perfect square and multiply it with the number not squared the equation is now solved and would look like this 20√2.
+In this situation the biggest perfect square would be 25. Next you would seperate the radical into 2. The eqaution would now would now look like this 4√25√2. Next simplify the the perfect square and multiply it with the number not squared. The equation is now solved and would look like this 20√2.
 
-## perfect cubes and other radicals 
+## Perfect Cubes and Other Radicals 
 
 simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive. If there are variables you can divde the variable by the index.
 
-# multiplying, adding and subtracting 
+# Multiplying, Adding and Subtracting 
 
 to multiply add or subtract radicals the radicands must be the same if they are diffrent you could try to simplifying them to try to make them the radicands the same.
-# dividing 
+# Dividing 
 
 first check if the index is the same if so start simplifying the coefficent then the radicands after that you need to multiply both sides of the multiplication by the bottom radicand then lastly you simplifying.
