@@ -37,4 +37,4 @@ To multiply add or subtract radicals, the radicands must be the same. If they ar
 
 # Dividing 
 
-First check if the index is the same. If so, start simplifying the coefficent, then the radicands,then you need to multiply both the denominator and the numerator by the bottom radicand then lastly you simplifying.
+First check if the index is the same. If so, start simplifying the coefficent, then the radicands, then you need to multiply both the denominator and the numerator by the bottom radicand then lastly you simplify.
