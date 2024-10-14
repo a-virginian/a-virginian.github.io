@@ -23,7 +23,9 @@ Lets take the equation  $4\sqrt{50}$  . First you have to find the largest perfe
  |7        |49          |
  |8        |64          |
 
-In this situation the biggest perfect square would be 25. Next you would seperate the radical into 2. The eqaution would now would now look like this 4√25√2. Next simplify the the perfect square and multiply it with the number not squared. The equation is now solved and would look like this 20√2.
+In this situation the biggest perfect square would be 25. Next you would seperate the radical into 2. The eqaution would now would now look like this $4\sqrt{25}\sqrt{2}$. Next simplify the the perfect square and multiply it with the number not squared. The equation is now solved and would look like this 20√2.
+
+$$20\sqrt{2}$$
 
 ## Perfect Cubes and Other Radicals 
 
