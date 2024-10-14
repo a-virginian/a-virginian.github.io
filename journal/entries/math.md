@@ -23,13 +23,13 @@ Lets take the equation **$4\sqrt{50}$**  . First you have to find the largest pe
  |7        |49          |
  |8        |64          |
 
-In this situation the biggest perfect square would be 25. Next you would seperate the radical into 2. The eqaution would now would now look like this **$4\sqrt{25}\sqrt{2}$** . Next simplify the the perfect square and multiply it with the number not squared. The equation is now solved and would look like this.
+In this situation the largest perfect square would be 25. Next you would seperate the radical into two. The eqaution would now would look like this **$4\sqrt{25}\sqrt{2}$** . Next simplify the the perfect square and multiply it with the number not squared. The equation is now solved and would look like this:
 
 $$20\sqrt{2}$$
 
 ## Perfect Cubes and Other Radicals 
 
-simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive. If there are variables you can divde the variable by the index.
+Simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive. If there are variables you can divde the variable by the index.
 
 # Multiplying, Adding and Subtracting 
 
