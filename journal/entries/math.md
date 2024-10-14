@@ -27,4 +27,11 @@ in this situation the biggest perfect square would be 25. next you would seperat
 
 ## perfect cubes and other radicals 
 
-simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive.  
+simplifying other racidals is just like simplifying sqaure roots except you divide the radicand by number to the power of the index for example if we have a cube root you use cubes. also if the index is a odd nomber the root can be a negitive number if its even it cant be negitive. If there are variables you can divde the variable by the index.
+
+# multiplying, adding and subtracting 
+
+to multiply add or subtract radicals the radicands must be the same if they are diffrent you could try to simplifying them to try to make them the radicands the same.
+# dividing 
+
+first check if the index is the same if so start simplifying the coefficent then the radicands after that you need to multiply both sides of the multiplication by the bottom radicand then lastly you simplifying.
