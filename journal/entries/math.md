@@ -29,7 +29,7 @@ $$20\sqrt{2}$$
 
 ## Perfect Cubes and Other Radicals 
 
-Simplifying other racidals is just like simplifying sqaure roots. First you divide the radicand by a number to the power of the index. for example, if we have a cube root you use cubes. Also, if the index is a odd number, the root can be a negative number. If it is even, it can't be negative. If there are variables, you can divde the variable by the index.
+Simplifying other racidals is just like simplifying sqaure roots. First you divide the radicand by a number to the power of the index. For example, if we have a cube root you use cubes. Also, if the index is a odd number, the root can be a negative number. If it is even, it can't be negative. If there are variables, you can divde the variable by the index.
 
 # Multiplying, Adding and Subtracting 
 
