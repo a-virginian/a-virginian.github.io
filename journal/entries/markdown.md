@@ -5,7 +5,8 @@
  |cat      |percent cat|
  |---------|-----------|
  |cat      |100%       |
- |syntax on| 0%        |
+ |human    |90%        |
+ |syntax on|0%         |
 
 
  $$\sqrt{earth^{cat}}$$
