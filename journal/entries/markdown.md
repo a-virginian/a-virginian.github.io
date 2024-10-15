@@ -8,4 +8,4 @@
  |syntax on| 0%        |
 
 
-$$the universe life and everything^{cat}\gamma$$
+$$\sqrt{earth^{cat}}\$$
