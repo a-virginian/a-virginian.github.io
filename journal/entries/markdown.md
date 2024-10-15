@@ -8,4 +8,4 @@
  |syntax on| 0%        |
 
 
-$$2^{8} /gamma$$
+$$2^{8}/gamma$$
