@@ -6,6 +6,7 @@
  |---------|-----------|
  |cat      |100%       |
  |human    |90%        |
+ |potato   |![potato](https://m.media-amazon.com/images/I/610wXa0Z12S._AC_UF894,1000_QL80_.jpg)|
  |syntax on|0%         |
 
 
