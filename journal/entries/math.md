@@ -29,12 +29,12 @@ $$20\sqrt{2}$$
 
 ## Perfect Cubes and Other Radicals 
 
-Simplifying other racidals is just like simplifying sqaure roots. First you divide the radicand by a number to the power of the index. for example, if we have a cube root you use cubes. Also if the index is a odd number the root can be a negative number if its even it cant be negative. If there are variables you can divde the variable by the index.
+Simplifying other racidals is just like simplifying sqaure roots. First you divide the radicand by a number to the power of the index. for example, if we have a cube root you use cubes. Also if the index is a odd number, the root can be a negative number if its even it can't be negative. If there are variables you can divde the variable by the index.
 
 # Multiplying, Adding and Subtracting 
 
-To multiply add or subtract radicals, the radicands must be the same. If they are diffrent, you could try to simplifying them to try and make the radicands the same.
+To multiply, add or subtract radicals, the radicands must be the same. If they are different, you could try to simplify them in a effort to  make the radicands the same.
 
 # Dividing 
 
-First check if the index is the same. If so, start simplifying the coefficent, then the radicands, then you need to multiply both the denominator and the numerator by the bottom radicand then lastly you simplify.
+First, check if the index is the same. If so, start by simplifying the coefficent, then the radicands, then you need to multiply both the denominator and the numerator by the bottom radicand. finally you simplify.
