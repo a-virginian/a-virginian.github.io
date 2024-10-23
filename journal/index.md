@@ -9,5 +9,4 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 
 [here is some math](entries/math.md)
 
-[here is my jorney making a website with wordpress](entries/the_duck_pencil_store)
-
+[here is my jorney making a website with wordpress](the_duck_pencil_Store)
