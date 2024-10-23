@@ -1,1 +1,1 @@
-(my website )[https://duckpencil3.wordpress.com/]
+[my website](https://duckpencil3.wordpress.com)
