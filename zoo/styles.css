@@ -1,0 +1,22 @@
+
+body{
+background-color: rgb(130,129,61);
+color: rgb(180, 112, 150);
+}
+header{
+ background-color: gray;
+}
+th,td,table{
+border: 1px solid;
+border-collapse: collapse;
+background-color: rgb(74, 65, 42);
+}
+p{
+background-color: gray;
+}
+h1{
+rgb(255, 167, 0)
+}
+li{
+rgb(102,90,44)
+}
