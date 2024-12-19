@@ -11,7 +11,8 @@ footer {
 	background: rgb(240, 191, 43); 
 }
 h1 {font-family:"Brush Script MT","Bradley Hand","Lucinda","Copperplate";}
-p,div{font-family: "san-sherif";}
+p,div{font-family: "san-sherif";
+background-color:#ff8e00;}
 #follow{background: rgb(133, 139, 161);}
 .time{background: #8d7ae8}
 .day{background: Salmon}
