@@ -13,7 +13,7 @@ footer {
 h1 {font-family:"Brush Script MT","Bradley Hand","Lucinda","Copperplate";}
 	.box1{		
 		 grid-area: 6/1/20/20;
-		border: 1px solid;;
+		border: 1px solid;
 		}
 	.links{
 		 grid-area: 5/1/6/20;
@@ -26,6 +26,11 @@ h1 {font-family:"Brush Script MT","Bradley Hand","Lucinda","Copperplate";}
 		 background-repeat: no-repeat;
 		 background-position: right;
            }
+	.h1 {
+  		font-family: "Anton", serif;
+  		font-weight: 400;
+  		font-style: normal;
+	}
 
 
 
