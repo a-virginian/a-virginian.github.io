@@ -22,12 +22,13 @@ footer {
 		 background-repeat: no-repeat;
 		 background-position: right;
            }
-	h1 {
+	#antonfont {
   		font-family: "Anton", serif;
   		font-weight: 400;
   		font-style: normal;
 		color: white;
 		line-height: .9;
+		font-size: 3em;
 	}
 
 
