@@ -27,8 +27,9 @@ footer {
   		font-weight: 400;
   		font-style: normal;
 		color: white;
-		line-height: .9;
+		line-height: .8;
 		font-size: 3em;
+		filter: drop-shadow(black .1rem .1rem 2px);
 	}
 
 
