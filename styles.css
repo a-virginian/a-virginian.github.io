@@ -48,7 +48,7 @@ footer {
 		 background-repeat: no-repeat;
 		 background-position: right;
 	}
-	#antonfont {
+	.antonfont {
 		font-family: "Anton", serif;
 		font-weight: 400;
   		font-style: normal;
