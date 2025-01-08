@@ -10,9 +10,11 @@ header {
 
 footer { 
 	background: rgb(240, 191, 43); 
+	padding: .1em;
+	font-size: smaller; 
 }
 	.box1{		
-		 grid-area: 4/11/15/20;
+		 grid-area: 4/11/14/20;
 		border: 1px solid;
 		background-color: antiquewhite;
 		padding: 1em;
