@@ -1,5 +1,5 @@
 body { 
-	background: DarkGray; 
+	background: white; 
 }
 	
 header { 
@@ -11,12 +11,21 @@ footer {
 	background: rgb(240, 191, 43); 
 }
 h1 {font-family:"Brush Script MT","Bradley Hand","Lucinda","Copperplate";}
-p,div{font-family: "san-sherif";}
-#follow{background: rgb(133, 139, 161);}
-.time{background: #8d7ae8}
-.day{background: Salmon}
-.genre{background: rgb(234, 215, 195)}
-.author{background: #fbf6ef}
-.title{background: Gainsboro}
+	.box1{		
+		 grid-area: 6/1/20/20;
+		border: 1px solid;;
+		}
+	.links{
+		 grid-area: 5/1/6/20;
+		 border: 1px solid;}
+	#image-of-me{
+		 background-image: url(" /image/me_poop_desk_small.jpeg");       
+		 grid-area: 1/1/5/20;
+		height: 320;
+		 width: 300px;
+		 background-repeat: no-repeat;
+		 background-position: right;
+           }
+
 
 
