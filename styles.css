@@ -53,10 +53,19 @@ footer {
 		font-weight: 400;
   		font-style: normal;
 		color: white;
-		line-height: .8;
-		font-size: 3em;
+	}
+	.logo{
+		 line-height: .45;
+		 font-size: 3em;
+	 	filter: drop-shadow(black .3rem .3rem 4px)
+	}
+	.name{
+		 line-height: .8;
+		 font-size: 3em;
 		filter: drop-shadow(black .3rem .3rem 4px);
 	}
+
+
 	#htmlcss{
 		padding: .3em 1em .3em 1em;
 	}
@@ -106,5 +115,5 @@ footer {
 		margin: 0;
 	}
 	.mediuma{
-	font-size: 1em;
+		font-size: .9em;
 	}
