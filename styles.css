@@ -76,7 +76,7 @@
 		overflow: hidden;
 		background-color: #333;
 		padding-left: 1em;
-		padding-top: 1em;
+		padding-top: .5em;
 	}
 	li{ 
 		float: left;
