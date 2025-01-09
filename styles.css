@@ -91,15 +91,15 @@
 	li a:hover {
 		background-color: #111;
 	}
-	 .textbox{
+	 #textbox{
 		grid-area: 1/1/4/10;
                 border: 1px solid;
        	 } 
-	 .school-text{
-		grid-area: 17/3/19/5;
+	 #school-text{
+		grid-area: 17/4/19/5;
 		background: rgba(250, 235, 215, .8);
 		 padding: .5em;
-		border: 1px solid;;
+		border: 1px solid;
          }
 	#image-scouts{ 
 		 grid-area: 2/7/18/10; 
