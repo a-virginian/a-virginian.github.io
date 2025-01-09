@@ -107,6 +107,12 @@
 		 background-repeat: no-repeat;
 		height: 300px;
 	}
+	#image-school{
+		grid-area: 2/3/18/5;
+		background-image: url("/image/Adam_School.jpg");
+		background-repeat: no-repeat;
+		height: 300px;
+	}
          .flying-text {
 		 grid-area: 17/6/19/7;
 		 background: rgba(250, 235, 215, .8);
