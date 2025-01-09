@@ -100,7 +100,7 @@
                 border: 1px solid;
          }
 	.imagebox1{ 
-		 grid-area: 4/7/19/10: 
+		 grid-area: 4/7/19/10; 
 		background-image: url("/image/boy-scouts.jpg");
 	}
          .box2 {
