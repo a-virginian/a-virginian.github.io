@@ -99,9 +99,11 @@
 		grid-area: 4/1/19/4;
                 border: 1px solid;
          }
-	.imagebox1{ 
-		 grid-area: 4/7/19/10; 
+	#image-scouts{ 
+		 grid-area: 2/7/18/10; 
 		background-image: url("/image/boy-scouts.jpg");
+		 background-repeat: no-repeat;
+		height: 300px;
 	}
          .box2 {
                 grid-area: 4/4/19/7;
@@ -117,9 +119,19 @@
 	.indent{
 		padding-left: 12px;
 	}
-	.nomargin{
+	.indent2{
+	 	padding-left: 8px;
+	}
+	h2{
 		margin: 0;
 	}
-	.indent2{
-	 padding-left: 8px;
+	#title-scouts{ 
+	 	grid-area: 1/7/3/9;
+		filter: drop-shadow(black .2rem .2rem 2px)
+	};
+	#text-scouts{
+	 	grid-area: 18/8/19/9;
+		background: rgba(250, 235, 215, .8);
+		padding: .5em;
+		border: 1px solid;
 	}
