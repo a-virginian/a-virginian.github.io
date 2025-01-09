@@ -1,39 +1,39 @@
-body { 
-	background: white; 
-	font-family: "Verdana","sans-serif";
-}
+	body { 
+		background: white; 
+		font-family: "Verdana","sans-serif";
+	}
 	
-header { 
-	background: #f0bf2b; 
-}
-.homegrid{
-	display:grid;
-	grid-template-rows: repeat(14,auto);
-	grid-template-columns: repeat(19,auto);
-	gap: 8px;
-	margin: 20px;
-	padding: 20px;
-	background-color: gray;
-	width: 30em;
-	margin-left: auto;
-	margin-right: auto;
-}
-.projectgrid{
-	display:grid;
-	grid-template-rows: repeat(19,auto);
-	grid-template-columns: repeat(9,auto);
-	gap: 8px;
-	margin: 20px;
-	padding: 20px;
-	background-color: gray;
-}
+	header { 
+		background: #f0bf2b; 
+	}
+	.homegrid{
+		display:grid;
+		grid-template-rows: repeat(14,auto);
+		grid-template-columns: repeat(19,auto);
+		gap: 8px;
+		margin: 20px;
+		padding: 20px;
+		background-color: gray;
+		width: 30em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.projectgrid{
+		display:grid;
+		grid-template-rows: repeat(19,auto);
+		grid-template-columns: repeat(9,auto);
+		gap: 8px;
+		margin: 20px;
+		padding: 20px;
+		background-color: gray;
+	}
 
 
-footer { 
-	background: rgb(240, 191, 43); 
-	padding: .1em;
-	font-size: smaller; 
-}
+	footer { 
+		background: rgb(240, 191, 43); 
+		padding: .1em;
+		font-size: smaller; 
+	}	
 	.box1{		
 		 grid-area: 4/11/14/20;
 		border: 1px solid;
@@ -55,8 +55,8 @@ footer {
 		color: white;
 	}
 	#logo{
-		 line-height: .45;
-		 font-size:2.5em;
+		 line-height: .6;
+		 font-size:2em;
 	 	filter: drop-shadow(black .3rem .3rem 4px)
 	}
 	#name{
@@ -113,4 +113,7 @@ footer {
 	}
 	.nomargin{
 		margin: 0;
+	}
+	.indent2{
+	 padding-left: 12px;
 	}
