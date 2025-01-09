@@ -99,12 +99,16 @@
 		grid-area: 4/1/19/4;
                 border: 1px solid;
          }
+	.imagebox1{ 
+		 grid-area: 4/7/19/10: 
+		background-image: url("/image/boy-scouts.jpg");
+	}
          .box2 {
                 grid-area: 4/4/19/7;
                 border: 1px solid;
          }
          .box3{
-                grid-area: 4/7/19/10;
+                grid-area: 9/7/19/10;
                 border: 1px solid;
            }
 	.biga{
