@@ -113,7 +113,7 @@
 		background-repeat: no-repeat;
 		height: 300px;
 	}
-         .flying-text {
+	#flying-text {
 		 grid-area: 17/6/19/7;
 		 background: rgba(250, 235, 215, .8);
 		 padding: .5em;
