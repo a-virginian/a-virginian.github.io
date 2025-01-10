@@ -43,11 +43,12 @@
 		font-size: 3em;
 		filter: drop-shadow(.3rem .3rem 4px #000000);
 	}
-	#textbox{
-		grid-area: 1/1/4/10;
-                border: 1px solid;
-       	 } 
-
+	.biga{
+		font-size: larger;
+	}
+	.indent{
+		padding-left: 12px;
+	}
 	
 	/*project page */
 	.projectgrid{/*project page grid*/ 
@@ -62,17 +63,17 @@
 
 	#htmlcss{
 		padding: .3em 1em .3em 1em;
-	} 
-	 #school-text{
+	}
+	#school-text{
 		grid-area: 17/4/19/5;
 		background: rgba(250, 235, 215, .8);
 		padding: .5em;
-		border: 1px solid;
-         }
-	#image-scouts{ 
-		 grid-area: 2/7/18/10; 
+		border: 1px solid
+	}
+	#image-scouts{
+		grid-area: 2/7/18/10;
 		background-image: url("/image/boy-scouts.jpg");
-		 background-repeat: no-repeat;
+		background-repeat: no-repeat;
 		height: 300px;
 	}
 	#image-school{
@@ -151,12 +152,6 @@
 	}
 	li a:hover {
 		background-color: #111;
-	}
-	.biga{
-		font-size: larger;
-	}
-	.indent{
-		padding-left: 12px;
 	}
 	.indent2{
 	 	padding-left: 8px;
