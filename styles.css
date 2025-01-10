@@ -37,10 +37,12 @@
 		width: 300px;
 		background-repeat: no-repeat;
 		background-position: right;
+	}
 	#name{
 		line-height: .8;
 		font-size: 3em;
 		filter: drop-shadow(.3rem .3rem 4px #000000);
+	}
 	#textbox{
 		grid-area: 1/1/4/10;
                 border: 1px solid;
@@ -89,8 +91,8 @@
 		 grid-area: 17/6/19/7;
 		 background: rgba(250, 235, 215, .8);
 		 padding: .5em;
-		 border: 1px solid;;
-           }
+		 border: 1px solid;
+	}
 	#title-scouts{ 
 	 	grid-area: 1/7/3/9;
 		filter: drop-shadow(.2rem .2rem 2px #000000);
