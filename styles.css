@@ -2,10 +2,6 @@
 		background: white; 
 		font-family: "Verdana","sans-serif";
 	}
-	
-	header { 
-		background: #f0bf2b; 
-	}
 	footer {
 		background: rgb(240, 191, 43);
 		padding: .1em;
@@ -123,9 +119,6 @@
 		line-height: .6;
 		font-size:2em;
 		filter: drop-shadow(.3rem .3rem 4px #000000)
-	}
-	#htmlcss{
-		padding: .3em 1em .3em 1em;
 	}
 	menu{
 		list-style-type: none;
