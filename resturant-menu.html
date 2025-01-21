@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>galactic diner</title>
+<script src="js/init.js"></script>
+<style>
+#grid{
+display:grid;
+grid-template-rows: repeat(19,auto);
+grid-template-columns: repeat(19,auto);
+gap: 8px;}
+#galatic-desserts{
+grid-area: 1/1/10/10;
+border: 1px solid;
+margin-bottom: 10px;
+}
+#galatic-food{ 
+border: 1px solid;
+grid-area: 10/1/20/10;
+}
+h1,h2,h3,p,div{
+color: white;
+}
+body{
+background-color: black;
+}
+</style>
+</head>
+<body>
+	<h1>galatic diner</h1>
+	<div id="grid">
+	<div id="galatic-desserts"><h2>galatic-desserts</h2>
+	<ul>
+	<li>cookie smoke: 826131234$</li>
+	<li>yummy surpirse: 112127$</li>
+	<li>nothing: 9123$</li>
+	</ul>	
+</div> 
+	<div id="galatic-food"><h2>galatic-food</h2>
+	<ul>
+	<li>freeze dried potato 92$</li>
+	<li>extra freeze dried potato 192$</li>
+	<li>extra extra freeze dried potato 292$</li>
+	<li>extra extra extra freeze dried potato 392$</li>
+	</ul>
+	</div>
+
+	</div>
+</body>

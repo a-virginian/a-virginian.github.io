@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>my activities </title>
+<script src="js/init.js"></script>
+<style>
+.grid{
+display:grid;
+grid-template-rows: repeat(14,auto);
+grid-template-columns: repeat(19,auto);
+gap: 8px;}
+.galatic-desserts{
+grid-area: 1/1/5/19;
+border: 1px solid;
+background-color: antiquewhite;
+}
+</style>
+</head>
+<body>
+	<h1>galatic diner</h1>
+	<div id="grid">
+	<div id="galatic-desserts"><h2>galatic-desserts</h2></div> 
+
+
+	</div>
+</body>
