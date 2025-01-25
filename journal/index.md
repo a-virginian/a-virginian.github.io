@@ -14,4 +14,5 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 [how to use vim](../code_practice.html)
 
 [my day](../ my_day.html)
+
 [stylus](entries/stylus.md)

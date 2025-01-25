@@ -8,16 +8,25 @@ I decided to change arlington techs website I did this by putting a big red box 
 here is the code and a image:
 
  body {
+
         background-color: black;
+
         font-family: wingdings;
     }
+
 div,h1,p,h2,h3,h4,h5{
+
     color: red;
+
     font-family: wingdings;
     
 }
+
 .hero {
+
     border: 18px dotted red;
     
    
-} 
+}
+
+![potato](../../../arlingtontech.jpg) 
