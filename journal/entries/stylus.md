@@ -29,4 +29,4 @@ div,h1,p,h2,h3,h4,h5{
    
 }
 
-![potato](../../../arlingtontech.jpg) 
+![photo of my edits to the website](../../arlingtontech.jpg) 
