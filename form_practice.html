@@ -9,18 +9,21 @@
 		<p>Please fill out this form to help us plan.<p>
 		<form action=" https://httpbin.org/post" method="post">
 		<label for="email">What is your email address?</label>
+		<br>
 		<input type="email" id="email" name="email" required>
 		<br>
 
 		<label for="phone">What is your phone number?</label>
+		<br>
 		<input type="tel" id="phone" name="phone" required>
 		<br>
 
 		<label for="number">How many people will you bring with you to the party?
 		</label>
+		<br>
 		<input type="number" id="number" name="number of people" required>
 		<br>	
-		<label for="flavor">What is your favorite flavor of ice cream?
+		<label for="Vanila">What is your favorite flavor of ice cream?
 		</label>
 		<br>
 		<input type="radio" id="Vanila" name="flavor" value="Vanila">
@@ -35,7 +38,7 @@
 		<input type="radio" id="other" name="flavor" value="other">
 		<label for="other">other</label>
 		<br>
-		<label for="toppings">Which toppings do you like?
+		<label for="Sprinkles">Which toppings do you like?
 		</label>
 		<br>
 		
@@ -53,6 +56,22 @@
 		<br>
 		<input type="checkbox" id="Other" name="toppings" value="Other">
 		<label for="Other">Other</label>
+		<br>
+		<label for="entertainment">What kind of entertainment should we have at the party?</label>
+
+		<select name="entertainment" id="entertainment">
+  		<option value="Ballon-animal">Ballon Animals</option>
+ 		<option value="Bounce-House">Bounce House</option>
+  		<option value="clown">Clown</option>
+  		<option value="Cornhole">Cornhole</option>
+		<option value="DJ">DJ</option>
+		<option value="Face-painting">Face Painting</option>
+		<option value="Magician">Magician</option>
+		</select>
+		<br>
+		 <label for="suggestions">Do you have any other suggestions or comments?</label>
+		<br>
+		<input type="text" id="suggestions" name="suggestions">
 		<br>
 			<input type="submit" name="submit">
 
