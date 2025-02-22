@@ -1,0 +1,55 @@
+#image-1{
+filter:blur(9px);
+
+}
+#image-2{
+border: dotted 10px;
+border-radius: 9999999998px;
+}
+#image-3{
+box-shadow:30px 21px 21px magenta;
+}
+#image-4{
+opacity: 30%;
+object-position: 50% 90%;
+}
+#yes{
+border: dotted 10px;
+height: 3000px;
+width: 3000px;
+}
+#image-5{
+filter: grayscale(94%);
+}
+#image-6{
+width: 900px;
+height: 900px;
+filter: contrast(11111111111100%);
+object-fit: scale-down;
+}
+#divthing{
+text-align: right;
+object-fit: scale-down;
+}
+#grid{
+display:grid;
+grid-template-rows: repeat(4,auto);
+grid-template-columns: repeat(4,auto);
+}
+#image-7{
+z-index: 1;
+grid-area: 1/1/1/1;
+max-width: 900px;
+max-height: 900px;
+position: relative;
+top: 40px; left: 40px;
+}
+#image-8{
+z-index: 2;
+grid-area: 2/1/1/2;
+ border-radius: 9999999998px;
+border: dotted 10px;
+ min-width: 4000px;
+min-width: 4000px;
+}
+
