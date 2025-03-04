@@ -1,6 +1,6 @@
 # stylus
 link to webstite 
-[website](notabotdaniel.github.io/OffThePike)
+[website](https://notabotdaniel.github.io/OffThePike/)
 link to repo
 [repo](https://github.com/NotABotDaniel/OffThePike)
 
