@@ -1,7 +1,6 @@
 # stylus
 link to webstite 
 [website](https://notabotdaniel.github.io/OffThePike/)
-i cant get the link to the website working so here is the link written out https://notabotdaniel.github.io/OffThePike/
 
 
 link to repo
