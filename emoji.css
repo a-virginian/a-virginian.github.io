@@ -1,0 +1,118 @@
+body{
+    background-color: #305dcf;
+}
+
+footer{
+    position: absolute;
+    bottom: 0%;
+}
+@keyframes bounceAnimation {
+    0%, 100% { transform: translateY(1px); }
+    50% { transform: translateY(-10px); }
+}
+@keyframes change-color {
+    from {background-color: white;}
+    to {background-color: red;}
+}
+
+/* Apply the animation to your element */
+.bouncing-element {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    background-color: #f44336, color: white;
+    text-align: center;
+    line-height: 50px;
+    
+    
+}
+
+
+/* Build the emoji face with gradients and shadow */
+.emoji{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 300px;
+    width: 300px;
+    background-image: radial-gradient(
+        #feca3e 58%,
+        #ff8000 80%
+    );
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 30px 30px 35px rgba(0,0,0,0.25);
+}
+
+/* Build the eyes */
+/*
+.eyes {
+
+}
+*/
+
+.eye {
+    
+    /* INSERT YOUR EYE SHAPE RULES HERE */
+
+    position: absolute;
+}
+
+.left {
+    top: 90px;
+    left: 25%;
+}
+
+.right {
+    top: 90px;
+    right: 25%;
+}
+
+.mouth{
+    height: 100px;
+    width: 220px;
+    background-color: #663d0f;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 25px;
+    overflow: hidden;
+    border-radius: 180px 180px 3px 3px
+}
+
+.teeth{
+    height: 40px;
+    width: 220px;
+    background-color: #e9fbfa;
+    position: absolute;
+    bottom: 75px;
+    border-radius: 5px 5px 80px 80px;
+}
+
+.tongue{
+    height: 70px;
+    width: 105px;
+    position: absolute;
+    background-color: red;
+    border-radius: 50%;
+    transform: translate(50%);
+    top: 70px;
+}
+.eyes {
+    display: flex;
+}
+
+.eye {
+    height: 72px;
+    width: 72px;
+    background-color: LightCoral;
+    border-radius: 50%;
+
+ animation-name: bounceAnimation, change-color;
+animation-duration: 1s;
+animation-timing-function: ease-in-out;
+animation-iteration-count: infinite;
+
+}
