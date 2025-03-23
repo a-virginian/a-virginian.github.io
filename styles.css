@@ -56,7 +56,7 @@
 		background-color: gray;
 		display: inline-grid;
 		max-width:29vw;
-		min-width:350px;
+		min-width:450x;
 	}   
 	#school-text{
 		grid-area: 17/4/19/5;
