@@ -18,3 +18,5 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 [stylus](entries/stylus.md)
 
 [off the pike](entries/offthepike.md)
+
+[exam prep](entries/exam_prep.md)
