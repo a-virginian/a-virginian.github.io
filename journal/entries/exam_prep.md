@@ -61,4 +61,4 @@ We'll use this to inform our study plan for the test.
 
 (We'll start filling this part in next class)
 I will make a image map to try and improve my skills on that
-[image map](../image-map-prac.html)
+[image map](../../../image-map-prac.html)
