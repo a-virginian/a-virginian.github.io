@@ -61,4 +61,7 @@ We'll use this to inform our study plan for the test.
 
 (We'll start filling this part in next class)
 I will make a image map to try and improve my skills on that
+I will also be working on my skils with iframes in the same document because i kinda forgot what iframes were. 
 [image map](../../../image-map-prac.html)
+
+After doing this my confidence of image maps is C and and my confidence on I frames is also up to a C. 
