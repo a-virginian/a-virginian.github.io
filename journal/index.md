@@ -19,6 +19,6 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 
 [off the pike](entries/offthepike.md)
 
-[javascript function](../snowman.html)
+[javascript function](../ snowman.html)
 
 [exam prep](entries/exam_prep.md)
