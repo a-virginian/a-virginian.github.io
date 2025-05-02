@@ -22,3 +22,5 @@ hello this is my web page deisgn journal i will wright about what i learn in thi
 [javascript function](snowman.html)
 
 [exam prep](entries/exam_prep.md)
+
+[game](entries/2d/game.md)
