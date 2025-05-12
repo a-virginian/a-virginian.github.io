@@ -62,14 +62,15 @@ const player = {
     x : 50,
     y: 600,
     radius: 25,
-    speed: 3
+    walkSpeed: 20,
+    jumpSpeed: 3,
 };
 
 if(game==true){
     function animate() {
         drawRectangles();
         drawPlayer();
-       
+        applyGravity();
         requestAnimationFrame(animate);
     }
 
@@ -97,21 +98,23 @@ if(game==true){
         let moveToX = player.x;
         let moveToY = player.y;
 
-        if(keys['s']){
-            moveToY= player.y+player.speed;
-        }
-
-        if(keys['w']){
-            moveToY = player.y-player.speed;
+        if(keys['w'] || keys[' ']){
+            if (velocityY==0){
+                velocityY = -6;
+                moveToY = player.y-player.jumpSpeed;
+            }
         }
         if(keys['a']){
-            moveToX= player.x-player.speed;
+            moveToX= player.x-player.walkSpeed;
         }
         if(keys['d']){
-            moveToX= player.x+player.speed;
+            moveToX= player.x+player.walkSpeed;
         }
 
-        if (!checkCollision(moveToX, moveToY)){
+        if (checkCollision(moveToX, moveToY)){
+            velocityY = 0;
+        }
+        else {
             player.x = moveToX;
             player.y = moveToY;
         }
@@ -128,6 +131,18 @@ if(game==true){
         if(player.y> 700){
             player.y = 700;
         }
+    }
+
+    const gravity = 0.2;
+    let velocityY = 0;
+
+    function applyGravity() {
+        velocityY += gravity; // Increase velocity due to gravity
+        if (checkCollision(player.x, player.y + velocityY))
+            velocityY = 0;
+        else
+            player.y += velocityY; // Apply velocity to object's y position
+
     }
    
     function checkCollision(moveToX, moveToY){
@@ -152,7 +167,7 @@ if(game==true){
                 yCollide = true;
            
             if (xCollide && yCollide){
-                console.warn("BONK!!", rect);
+                //console.warn("BONK!!", rect);
                 return true;
             }
         }  
