@@ -45,12 +45,18 @@ rectangles.push(new Rectangle(80,660,1280,40,"red"));
 rectangles.push(new Rectangle(550,520,40,40,"red"));
 rectangles.push(new Rectangle(670,520,40,40,"red"));
 rectangles.push(new Rectangle(790,520,40,40,"red"));
+rectangles.push(new Rectangle(100,80,20,200,"red"));
 rectangles.push(new Rectangle(180,600,40,10,"gray"));
 rectangles.push(new Rectangle(350,560,40,10,"gray"));
 rectangles.push(new Rectangle(450,560,500,10,"gray"));
 rectangles.push(new Rectangle(1090,540,40,10,"gray"));
 rectangles.push(new Rectangle(1290,500,40,10,"gray"));
-
+rectangles.push(new Rectangle(1190,350,40,10,"gray"));
+rectangles.push(new Rectangle(900,310,60,10,"gray"));
+rectangles.push(new Rectangle(690,250,40,10,"gray"));
+rectangles.push(new Rectangle(450,190,40,10,"gray"));
+rectangles.push(new Rectangle(210,190,40,10,"gray"));
+rectangles.push(new Rectangle(0,390,40,10,"gold"));
 let dx = 10;
 let dy = 11;
 
@@ -68,6 +74,10 @@ const player = {
 
 if(game==true){
     function animate() {
+	if (!game==true) {
+        console.warn("Game Over!");
+        return;
+    }
         drawRectangles();
         drawPlayer();
         applyGravity();
@@ -77,7 +87,6 @@ if(game==true){
     function drawRectangles(){
         for (let i = 0; i < rectangles.length; i++) {
             const rect = rectangles[i];
-            //console.log(`Rectangle ${i + 1}: x=${rect.x}, y=${rect.y}, width=${rect.width}, height=${rect.height}`);
 
             ctx.fillStyle=rect.color;
             ctx.fillRect(rect.x,rect.y,rect.width,rect.height);
@@ -100,7 +109,7 @@ if(game==true){
 
         if(keys['w'] || keys[' ']){
             if (velocityY==0){
-                velocityY = -6;
+                velocityY = -8;
                 moveToY = player.y-player.jumpSpeed;
             }
         }
@@ -137,11 +146,11 @@ if(game==true){
     let velocityY = 0;
 
     function applyGravity() {
-        velocityY += gravity; // Increase velocity due to gravity
+        velocityY += gravity;
         if (checkCollision(player.x, player.y + velocityY))
             velocityY = 0;
         else
-            player.y += velocityY; // Apply velocity to object's y position
+            player.y += velocityY; 
 
     }
    
@@ -167,9 +176,12 @@ if(game==true){
                 yCollide = true;
            
             if (xCollide && yCollide){
-                //console.warn("BONK!!", rect);
+                 if (rect.color === "red") {
+                console.warn("Game Over!");
+                game = false;
+		}
                 return true;
-            }
+           } 
         }  
     }
 }
