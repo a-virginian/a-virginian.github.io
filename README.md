@@ -1,13 +1,1 @@
-# Markdown
-
-i like cheese
-
-## 2
-
-i am typing in markdown
-
-* headers 
-* smaller headers
-* paragraphs 
-* lists 
-
+Hello I am a student at Arlington Tech high school in Arlington, Virginia. I made this website for my web page design class. If you would like to know more click [here.](https://a-virginian.github.io/) 
